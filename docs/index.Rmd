@@ -1,5 +1,5 @@
 ---
-title: "**Sociologia digital em debate**"
+title: "**Praticando humanidades digitais...**"
 author: "Leonardo F. Nascimento"
 institute: "Universidade Federal da Bahia - LABHDUFBA"
 date: "`r Sys.Date()`"
@@ -75,18 +75,34 @@ knitr::include_graphics("img/logo_MA_color.png")
 ---
 class: inverse, center, middle
 
-# Aspectos gerais das sociedades digitais contemporâneas...
+--
+## Há ou não uma experiência social (do digital) característica das sociedade contemporâneas?
+<br>
+
+--
+## Como esta experiência pôde se constituir?
+<br>
+
+--
+## De que forma esta experiência pode se tornar um objeto de investigação das ciências sociais?
+<br>
+
 
 ---
-class: middle, center
+class: inverse, center, middle
 
-## "Digitalização do eu na vida cotidiana" 
+# Aspectos gerais das sociedades contemporâneas...
+
+---
+class: inverse, middle, center
+
+## "Digitalização do eu na vida cotidiana" (Nascimento, 2020)
 
 ```{r, out.width="80%"}
 knitr::include_graphics("img/ds.jpeg")
 ```
 ---
-class: middle, center
+class: inverse, center, middle
 
 ## Algoritmização de processos sociais
 
@@ -95,27 +111,28 @@ knitr::include_graphics("img/matrix-digital-self.png")
 ```
 
 ---
-class: middle, center
+class: inverse, center, middle
 
-## Traços digitais (digital data trace)
+## Traços digitais (Howison et al. 2011, p. 769)
+
 
 ```{r, out.width="75%"}
 knitr::include_graphics("img/socioloy.png")
 ```
 
 ---
-class: middle, center
+class: inverse, center, middle
 
-## Dataficação
+## Dataficação (Cukier & Mayer-Schoenberger, 2013)
 
 ```{r, out.width="75%"}
 knitr::include_graphics("img/datafication4.jpg")
 ```
 
 ---
-class: middle, center
+class: inverse, center, middle
 
-## Cultura de vigilância
+## Cultura de vigilância (Lyon, 2018)
 
 
 ```{r, out.width="65%"}
@@ -125,11 +142,35 @@ knitr::include_graphics("img/surv.jpg")
 ---
 class: inverse, center, middle
 
-# Qual o papel da sociologia nesse mundo digital de dados continuamente produzidos?
+# Qual o papel das ciências sociais em um mundo digital de dados continuamente produzidos?
 
-```{r, out.width="100%"}
+```{r, out.width="80%"}
 knitr::include_graphics("https://media.giphy.com/media/pOEbLRT4SwD35IELiQ/giphy.gif?cid=ecf05e475vot0dyqf7ocbyf43eh75omn2pjcymz4m65rzbf4&rid=giphy.gif&ct=g")
 ```
+---
+class: inverse, middle, center
+
+# Nunca tivemos tantos dados, ferramentas, técnicas... 
+
+```{r, out.width="85%"}
+knitr::include_graphics("https://media.giphy.com/media/YnlDGfCxyOIYTDp86I/giphy.gif")
+```
+
+---
+class: inverse, middle, center
+
+# Apesar disso, nossos problemas NÃO acabaram! 
+
+```{r, out.width="70%"}
+knitr::include_graphics("https://media.giphy.com/media/H0kxiS2RJF2HC/giphy.gif")
+```
+---
+class: center, middle
+
+## "O fato contundente é que a sociologia está lamentavelmente despreparada para lidar com esse problema: não temos nem as ferramentas analíticas nem a imaginação conceitual necessária." 
+<br>
+### (Reflections on the Future of Sociology, Andrew Abbott, 2000, p. 298, tradução nossa)
+
 ---
 class: inverse, center, middle
 
@@ -227,10 +268,24 @@ knitr::include_graphics("img/bookleo.png")
 [Clique para baixar](https://repositorio.ufba.br/ri/handle/ri/32746/statistics)]
 
 ---
-
 class: inverse, center, middle
 
-# Como eu cheguei na **sociologia digital**? (ou era uma vez um **N00b**...)
+# Nós precisamos de uma **antropologia digital**?
+
+---
+class: center, middle
+
+```{r, out.width="45%"}
+knitr::include_graphics("img/antro.png")
+```
+
+### "..o digital, como toda cultura material, é mais do que um substrato; está se tornando parte constitutiva do que nos torna humanos" 
+##### (Heather & Miller. Digital Anthropology. Taylor & Francis,  2013, p.4)
+
+---
+class: inverse, center, middle
+
+# Como eu cheguei nas **humanidades digitais**? (ou era uma vez um **N00b**...)
 
 ```{r, out.width="60%"}
 knitr::include_graphics("https://media.giphy.com/media/9rtpurjbqiqZXbBBet/giphy.gif")
@@ -261,7 +316,7 @@ class: middle, center
 ---
 class: inverse, center, middle
 
-# O que significa o **digital** na **sociologia digital**?
+# O que significa o **digital** nas **humanidades digitais**?
 
 ---
 class: middle, center
@@ -305,14 +360,13 @@ class: middle, center
 <br>
 
 --
-## big data (Cf. Salganik, 2020)
+## capacidade computacional/big data (Cf. Salganik, 2020)
 <br>
 
 ---
 class: middle, center
 
 # **Métodos digitais**
-<br>
 
 --
 ## Letramento digital
@@ -323,12 +377,15 @@ class: middle, center
 <br>
 
 --
-## Superação da suposta oposição Quali-quanti
+## Superação da oposição Quali x Quanti
 <br>
 
 --
-## Crítica e epistemológica às ferramentas digitais
+## Pré-construção	algorítimica das ferramentas ("black-box")
 <br>
+
+--
+## Cuidado com o soterramento! (download *versus* capacidade analítica)
 
 ---
 class: middle, center
@@ -351,7 +408,30 @@ class: middle, center
 ---
 class: inverse, center, middle
 
-# Para finalizar: como eu aprendo a fazer **sociologia digital**?
+# Nova vigilância epistemológica em meios digitais  
+
+---
+class: middle, center
+
+# Um "erro no código" passa a constituir um "erro metodológico"
+
+```{r, out.width="100%"}
+knitr::include_graphics("img/python.png")
+```
+
+---
+class: middle, center
+
+# "nossos ajudantes digitais já estão cheios de teoria e julgamento" (Bernhard Rieder and Theo Röhle in: BERRY, 2012, p. 70)
+
+```{r, out.width="50%"}
+knitr::include_graphics("img/bender.jpg")
+```
+
+---
+class: inverse, center, middle
+
+# Para finalizar: como eu aprendo a fazer **humanidades digitais**?
 
 ---
 class: middle, center
@@ -367,9 +447,8 @@ knitr::include_graphics("https://media.giphy.com/media/JQRVMKkWAQbdiXFBkg/giphy.
 ##**Agradecimentos especiais**:
 <br>
 
-### Prof. Jimmy Medeiros e ao Laboratório de Humanidades Digitais do CPDOC- Pelo convite!
+### Profa. Letícia Cesarino pelo convite!
 <br>
 
-### Ao público pela paciência!
 ]
 
