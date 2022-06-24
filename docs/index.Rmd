@@ -1,5 +1,5 @@
 ---
-title: "**Praticando humanidades digitais...**"
+title: "**Praticando Humanidades Digitais**"
 author: "Leonardo F. Nascimento"
 institute: "Universidade Federal da Bahia - LABHDUFBA"
 date: "`r Sys.Date()`"
